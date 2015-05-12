@@ -1,5 +1,5 @@
 # gutFluorescence
-This repository contains data from a series of experiments that aimed at building gut fluorescence time series of copepods as they were feeding. 
+This repository contains data from a series of experiments that took place during the month of December, 2006. The goal of the experiment was to construct gut fluorescence time series of copepods as they were feeding. 
 Contents include:
 
                   1. An EXCEL spreadsheet <pmgsummaryGF0612.xls containing summary data of the experiment including
