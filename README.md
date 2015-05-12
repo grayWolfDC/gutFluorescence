@@ -1,6 +1,7 @@
 # gutFluorescence
 This repository contains data collected during a series of experiments that aimed at collecting gut fluorescence time series of copepods as they were feeding. 
-Contents include: 
+Contents include:
+
                   1. An EXCEL spreadsheet <pmgsummaryGF0612.xls containing summary data of the experiment including
                       * data about individual copepods used in the experiment
                       * data on the food used for the experiments
