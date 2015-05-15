@@ -15,8 +15,6 @@ Contents include:
 
 Please cite as: 
 
-E. M. Karakoylu, P. J. S. Franks
-
-Reassessment of copepod grazing impact based on continuous time series of in vivo gut fluorescence from individual copepods
-
+E. M. Karakoylu, P. J. S. Franks\\
+Reassessment of copepod grazing impact based on continuous time series of in vivo gut fluorescence from individual copepods\\
 Journal of Plankton Research 12/2011; 34(1):55-71. DOI:10.1093/plankt/fbr086 
